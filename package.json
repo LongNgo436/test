@@ -9,5 +9,14 @@
   },
   "dependencies": {
     "express": "^4.16.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LongNgo436/test.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LongNgo436/test/issues"
+  },
+  "homepage": "https://github.com/LongNgo436/test#readme"
 }
